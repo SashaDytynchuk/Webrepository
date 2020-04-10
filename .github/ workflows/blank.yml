@@ -1,0 +1,83 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+
+<head><meta charset="utf-8">
+
+<title>Дытынчук Александр</title>
+
+</head>
+
+<body>
+
+Студент группы РС/с-19-01-о Севастопольского государственного университета
+
+</p>
+
+<p>
+
+Дытынчук Александр Михайлович
+
+</p>
+
+<p>
+
+<a href="NewFile.html">2-я страница</a>
+
+</body>
+
+</html>
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+
+<head><meta charset="utf-8">
+
+<title>Дытынчук Александр</title>
+
+</head>
+
+<body>
+
+<table bordercolor="black" border="1" width="50%" cols="2" bordercolor="black" border="1" width="50%">
+
+<td> Планы: </td>
+
+<td> Выполнение: </td>
+
+</tr>
+
+<tr>
+
+<td> 1) поесть шашлык на 8 марта </td>
+
+<td> Выполнено </td>
+
+</tr>
+
+<tr>
+
+<td> 2) погулять </td>
+
+<td> Выполнено </td>
+
+</tr>
+
+<tr>
+
+<td> 3) поучиться </td>
+
+<td> Не выполнено </td>
+
+</table>
+
+</p>
+
+<p>
+
+<a href="Codelobster1.html">Вернуться на 1-ю страницу</a>
+
+</body>
+
+</html>
